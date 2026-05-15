@@ -57,12 +57,18 @@ print safadao($dia, $mes, $ano);
 </head>
 <body>
     
-    <h2><?php print "Nível de safadeza: $safadeza, ai tem o nível de anejza: $anjo"; ?></h2>
-    <a href="index.hmtl">RECALCULAR</a>
+    <h2><?php print "Nível de safadeza: $safadeza%, ai tem o nível de anejza: $anjo%"; ?></h2>
+
 
     <img src="https://i.ytimg.com/vi/tnQzkODdKQ8/sddefault.jpg">
     <img src="https://conteudo.imguol.com.br/c/entretenimento/44/2016/10/13/nao-tem-um-acontecimento-que-nao-vire-meme-com-wesley-safadao-na-epoca-da-copa-quando-comecou-a-ganhar-projecao-nacional-o-cearense-virou-figurinha-do-album-da-selecao-so-na-internet-claro-o-1476400940841_142x200.jpg.webp">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRcevKJpsksRmNw8h-_8mwZ1Ry1vD-O6Vsw&s">
+    <img src="https://conteudo.imguol.com.br/c/entretenimento/a7/2016/10/13/wesley-safadao-para-presidente-se-dependesse-do-publico-da-internet-quem-estaria-no-comando-do-brasil-seria-o-cantor-cearense-1476400943529_300x300.jpg.webp">
+
+    <h4>só eu acho esse cara estranho nessas fotos?</h4>
+
+    <a href="index.hmtl">RECALCULAR</a>
+
 
 </body>
 </html>
